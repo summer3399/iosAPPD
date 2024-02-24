@@ -11,7 +11,7 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>http://49.4.11.194:8084/nbcio-boot/sys/common/static/io.dcolud.cheshangdaiApp.ipa</string>  
+                    <string>https://github.com/summer3399/iosAPPD/raw/master/io.dcloud.cheshangdaiApp.ipa</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>  
                 <string>io.dcloud.cheshangdaiv10</string>  
                 <key>bundle-version</key>  
-                <string>233</string>  
+                <string>1.0.01</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
