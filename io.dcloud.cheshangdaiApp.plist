@@ -11,7 +11,7 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>http://116.63.164.220:8084/nbcio-boot/sys/common/static/io.dcloud.cheshangdaiv10.ipa</string>  
+                    <string>https://github.com/summer3399/iosAPPD/raw/master/io.dcloud.cheshangdaiApp.ipa</string>  
                 </dict>  
                 <dict>
                    <key>kind</key>
